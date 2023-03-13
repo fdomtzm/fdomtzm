@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently learning Git and GitHub
 
 <!--
 **fdomtzm/fdomtzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
